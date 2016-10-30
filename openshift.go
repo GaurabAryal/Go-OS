@@ -1,5 +1,5 @@
 package openshift
 
-func connect(s token) string{
-  return string(token)
+func connect(x string) string {
+	return x
 }
