@@ -1,5 +1,5 @@
 package openshift
 
-func connect(x string) string {
+func Connect(x string) string {
 	return x
 }
